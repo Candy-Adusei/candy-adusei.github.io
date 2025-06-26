@@ -20,10 +20,6 @@ main:
     url: /news/
   - title: "CV"
     url: /cv/
-  - title: "Contact"
-    url: /contact/
-
-
   # - title: "CV"
   #   url: /cv-json/
     
