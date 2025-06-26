@@ -20,7 +20,7 @@ I'm currently preparing a PhD dissertation and experiments at the intersection o
 
 ---
 
-## 📄 Recent Projects
+## Recent Projects
 - **Relative Clause Attachment and Prosodic Phrasing in Akan Twi**: MA Thesis
 - **Implicit Causality & Attachment in Akan Twi**: Ongoing
 
