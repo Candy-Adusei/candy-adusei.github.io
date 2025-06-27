@@ -5,6 +5,12 @@ permalink: /activities/
 author_profile: true
 ---
 
+- **Article Published on OEB Insights: "Bridges, Not Pedestals"**
+  I am excited to share my new article published on OEB Insights:
+  [**Bridges, Not Pedestals: Stories That Build Classrooms**](https://oeb.global/oeb-insights/bridges-not-pedestals-stories-that-build-classrooms/)
+
+  In this piece, I reflect on how shared narratives can transform learning spaces into inclusive communities where learners are seen, heard, and empowered.
+
 - **DAAD Prize for Outstanding International Students** (2024)  
   Prestigious award recognizing academic excellence and intercultural engagement at German universities.
 
