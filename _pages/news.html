@@ -1,6 +1,11 @@
 ---
-layout: archive
+layout: single
 title: "News"
 permalink: /news/
 author_profile: true
+collection: news
 ---
+
+{% for post in site.news %}
+  {% include archive-single.html %}
+{% endfor %}
