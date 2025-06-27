@@ -52,7 +52,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "https://bsky.app/profile/meendy.bsky.social" # Replace this with you Bluesky username
+  bluesky          : "meendy.bsky.social" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -61,7 +61,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/candy-adusei-22bb34141?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app"
+  linkedin         : "http://linkedin.com/in/candy-adusei-22bb34141"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
