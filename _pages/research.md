@@ -12,7 +12,11 @@ I’m designing experiments to test parsing preferences using stacked relative c
 
 Past Projects
 ======
-* Pronouns and Stereotypes: Do Implicit Biases and thus Processing Costs of Gender Information Change with Gender Stereotypes? (2023)
+# Light versus Dark: Interactive effects of backgrounds and cues in visual search (Candy Adusei, Sanjana Scaria Mannanal Chenyue Zhou, Erisa Hoxha, 2023)
+
+-**Abstract**: 
+  
+# Pronouns and Stereotypes: Do Implicit Biases and thus Processing Costs of Gender Information Change with Gender Stereotypes? (2023)
 
 - **Abstract**:
   Several studies on gender stereotypes and processing have noted that gender information is one of
