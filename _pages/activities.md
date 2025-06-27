@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 - **Article Published on OEB Insights: "Bridges, Not Pedestals"**
+
   I am excited to share my new article published on OEB Insights:
   [**Bridges, Not Pedestals: Stories That Build Classrooms**](https://oeb.global/oeb-insights/bridges-not-pedestals-stories-that-build-classrooms/)
 
