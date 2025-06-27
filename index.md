@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: single
 title: "Welcome"
 ---
 <img src="/images/CandyAdusei.JPG" width="180" style="border-radius: 50%;" alt="Candy Adusei profile picture">
