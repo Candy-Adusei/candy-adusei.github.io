@@ -3,24 +3,22 @@ layout: single
 title: "Welcome"
 ---
 
-Hi, I'm Candy Adusei
+Hi, I'm Candy Adusei.
 
-I'm a linguist and psycholinguistics researcher exploring how speakers of **Akan Twi** interpret ambiguous relative clauses, and attachment preferences in complex sentences.
-
-I'm currently preparing a PhD dissertation and experiments at the intersection of **language processing**, **syntax**, and **cognitive science**.
+I'm a linguist and psycholinguistics researcher investigating how speakers of Akan Twi interpret ambiguous relative clauses, and attachment preferences in complex sentences.
 
 ---
 
 ## Research Interests
-- Sentence processing in Akan Twi
-- Ambiguity Resolution
-- Implicit Causality 
-- Eye Tracking
+- Psycholinguistics and sentence processing
+- Cognitive modeling in language comprehension  
+- Implicit biases in language processing  
+- Eye-tracking and self-paced reading methods  
 
 ---
 
 ## Recent Projects
-- **Relative Clause Attachment and Prosodic Phrasing in Akan Twi**: MA Thesis
-- **Implicit Causality & Attachment in Akan Twi**: Ongoing
+- Relative Clause Attachment and Prosodic Phrasing in Akan Twi
+- Implicit Causality & Attachment in Akan Twi
 
 ---
