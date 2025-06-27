@@ -10,6 +10,7 @@ Current Projects
 - Parsing Beyond Boundaries: An Exploration into the Psycholinguistics of Akan Twi
 
 - Affiliated Researcher, [Psycholinguistics and Cognitive Modelling Lab](https://tmalsburg.github.io/index.html#lab), University of Stuttgart
+
 ---
 
 Past Projects
