@@ -2,6 +2,7 @@
 layout: page
 title: "Grants"
 permalink: /grants/
+author_profile: true
 ---
 
 - **LGF PhD Scholarship** (2025–2029)  
