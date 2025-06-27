@@ -5,9 +5,11 @@ permalink: /research/
 author_profile: true
 ---
 
-### Current Projects
+Current Projects
+======
 **Relative Clause Ambiguity in Akan**  
 I’m designing experiments to test parsing preferences using stacked relative clauses in Akan Twi.
 
-### Past Projects
+Past Projects
+======
 **Relative Clause Ambiguity in Akan**  
