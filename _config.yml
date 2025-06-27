@@ -230,7 +230,7 @@ collections:
     permalink: /:collection/:path/
   news:
     output: true
-    permalink: /:collection/:path/
+    permalink: /news/:name/
 
 
 # These settings control how pages and collections are included in the site
@@ -286,14 +286,6 @@ defaults:
       type: talks
     values:
       layout: talk
-      author_profile: true
-      share: true
-  # _news
-  - scope:
-      path: ""
-      type: news
-    values:
-      layout: single
       author_profile: true
       share: true
 
