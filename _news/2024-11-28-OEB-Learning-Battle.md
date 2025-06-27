@@ -1,7 +1,7 @@
 ---
 title: "Bringing Home the OEB Learning Battle Trophy!"
 excerpt: "Candy Adusei wins the Learning Battle."
-date: 2025-11-28
+date: 2024-11-28
 permalink: /news/2025-11-28-OEB-Learning-Battle
 collection: news
 ---
