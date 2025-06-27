@@ -2,6 +2,7 @@
 layout: page
 title: "About"
 permalink: /about/
+author_profile: true
 ---
 
 I’m Candy Adusei, a linguist focusing on how Akan Twi speakers process ambiguity in syntax and clause structure.
