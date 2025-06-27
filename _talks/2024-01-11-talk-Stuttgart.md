@@ -3,7 +3,7 @@ title: "Relative Clause Attachment and Prosodic Phrasing in Akan Twi and English
 collection: talks
 type: "Talk"
 permalink: /talks/2024-01-11-talk-Stuttgart
-venue: "Universität Stuttgart"
+venue: "Institut für Linguistik, Universität Stuttgart"
 date: 2024-01-11
 location: "Stuttgart, Germany"
 ---
