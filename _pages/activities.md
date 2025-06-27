@@ -2,6 +2,7 @@
 layout: page
 title: "Professional Activities"
 permalink: /activities/
+author_profile: true
 ---
 
 - **DAAD Prize for Outstanding International Students** (2024)  
