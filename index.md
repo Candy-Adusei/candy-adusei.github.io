@@ -1,9 +1,7 @@
 ---
 layout: single
-title: "Welcome"
+title: "Candy Adusei"
 ---
-
-Hi, I'm Candy Adusei.
 
 I'm a linguist and psycholinguistics researcher investigating how speakers of Akan Twi interpret ambiguous relative clauses, and attachment preferences in complex sentences.
 
