@@ -13,4 +13,4 @@ I am Candy Adusei,a psycholinguist and PhD researcher at the Institute of Lingui
 
 With a background in English Linguistics, Political Science, and project-based educational innovation, I integrate eye-tracking and experimental methods to investigate how languages are processed across structures and contexts.
 
-[What am I up to?](https://github.tik.uni-stuttgart.de/ac147557)
+[What am I up to?](https://github.com/Candy-Adusei)
